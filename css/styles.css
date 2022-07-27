@@ -1,0 +1,168 @@
+.navbar-nav{
+	/*padding-right: 80px*/;
+	/*padding-top: 15px;
+    padding-bottom: 15px;*/
+    padding-left: 15rem;
+    /*background-color: white;*/
+        border-color: white;
+}
+h1{
+	font-weight: bolder;
+}
+.ahead{
+	color: blue;
+}
+.form-control{
+	border-width: 2px;
+	box-shadow: grey;
+	border-radius: 20px;
+	/*font-size: xx-small;*/
+
+	
+	
+}
+
+.navbar-form{
+	padding-top: 50px;
+}
+.strong{
+	font-size: larger;
+	padding-top: 60px;
+}
+.btn-default{
+	border: black solid 1px;
+	border-radius: 20px;
+	background-color: black;
+	color: white;
+}
+
+.btn-primary{
+	border-radius: 20px;
+
+}
+
+.btn-success{
+	border: black solid 2px;
+	border-radius: 20px;
+	background-color: white;
+	color: black;
+	/*font-size: small;*/
+
+}
+.col-md-12{
+	background-color: lightgray;
+	padding: 30px 40px 30px 40px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+.number{
+	color: blue;
+}
+.h3{
+	font-weight: bolder;
+}
+.thumbnail{
+ border-right: grey;
+ border-bottom: none;
+ border-top: none;
+ 
+}
+.better{
+	color: blue;
+}
+
+#h3, #h{
+	font-weight: bolder;
+	color: gray;
+}
+#h{
+  
+  padding-top: 40px;
+}
+.control{
+	padding-top: 40px;
+}
+
+
+
+#spacing{
+	font-weight: bold;
+	color: gray;
+	font-size: larger;
+	padding-top: 60px;
+}
+.form{
+	padding-top: 60px;
+}
+
+
+#para{
+	font-size: large;
+	color: lightblue;
+	padding-top: 70px;
+}
+
+#btn{
+	padding-top: 50px;
+}
+#parag{
+	text-align: center;
+	color: lightblue;
+	font-weight: bolder;
+}
+
+#head{
+	text-align: center;
+	color: gray;
+	font-weight: bolder;
+}
+#head1{
+	color: gray;
+	font-weight: bolder;
+}
+
+.cont1{
+    padding-bottom: 40px;
+}
+.cont6{
+	padding-top: 60px;
+}
+
+.sol{
+	padding-bottom: 30px;
+}
+.row-easy{
+	border: none;
+}
+
+
+.calender{
+	font-weight: bolder;
+	color: gray;
+	padding-top: 50px;
+}
+.efficient{
+  
+  padding-top: 60px;
+}
+.book, .follow-ups{
+	padding-top: 50px;
+}
+.work{
+	padding-top: 50px;
+}
+.find{
+	padding-top: 50px;
+	background-color: snow;
+	border-radius: 20px;
+
+}
+.English{
+	padding-top: 50px;
+}
+.thumbnail {
+    border-right: none;
+    border-bottom: none;
+    border-top: none;
+    border: none;
+}
